@@ -1,6 +1,6 @@
 #  3D Scroll Animation Website with Three.js
 
-Welcome to my beginner-level web project! This is a **3D scroll animation website** built using **Three.js**, a powerful JavaScript library for 3D graphics in the browser. The goal of this project was to learn the fundamentals of Three.js and explore how scrolling can be used to trigger dynamic, interactive 3D animations on a webpage.
+This is a **3D scroll animation website** built using **Three.js**, a powerful JavaScript library for 3D graphics in the browser. The goal of this project was to learn the fundamentals of Three.js and explore how scrolling can be used to trigger dynamic, interactive 3D animations on a webpage.
 
 ## Features
 
@@ -34,3 +34,4 @@ This project was created as part of my learning journey in web development. I wa
 - Add loading screen for better UX
 - Optimize for mobile responsiveness
 
+This website is a demo and a sample of what I learnt through this project.
